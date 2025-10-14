@@ -1,10 +1,12 @@
 # Gesture-Controlled-Virtual-Files-Sorting-System
 
+- [Tuto for hand tracking](https://www.youtube.com/watch?v=NZde8Xt78Iw)
+- [Video capture](https://www.geeksforgeeks.org/python/python-opencv-capture-video-from-camera/)
 - [Tuto for virtual cursor](https://www.youtube.com/watch?v=8gPONnGIPgw&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=8)
 - [Drag and drop](https://youtu.be/uGmMsGOcBB0?si=1xz5jidaO07nkHBX)
 - [Managing files in python](https://www.geeksforgeeks.org/python/python-directory-management/)
 - [Images in tkinter](https://tkinter.com/images-in-customtkinter-tkinter-customtkinter-17/)
-
+- [Mediapipe docs](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html)
 #### IDEA:
 virtual mouse for sorting photos / files on computer ?
 like a tiny program, with drag and drop (divided view) all photos on left, the ones you ‚pick’ and move with ai cursor on the right will get deleted 
