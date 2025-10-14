@@ -2,6 +2,8 @@
 
 - [Tuto for virtual cursor](https://www.youtube.com/watch?v=8gPONnGIPgw&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=8)
 - [Drag and drop](https://youtu.be/uGmMsGOcBB0?si=1xz5jidaO07nkHBX)
+- [Managing files in python](https://www.geeksforgeeks.org/python/python-directory-management/)
+- [Images in tkinter](https://tkinter.com/images-in-customtkinter-tkinter-customtkinter-17/)
 
 #### IDEA:
 virtual mouse for sorting photos / files on computer ?
