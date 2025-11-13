@@ -10,7 +10,7 @@
 #### IDEA:
 virtual mouse for sorting photos / files on computer ?
 like a tiny program, with drag and drop (divided view) all photos on left, the ones you ‚pick’ and move with ai cursor on the right will get deleted 
-<img width="1013" height="668" alt="idea_visualised" src="https://github.com/user-attachments/assets/4558097c-f7ea-47c9-b242-9491e5df9be0" />
+<img width="1013" height="668" alt="idea_visualised" src="idea.png" />
 
 ---
 wstepnie jak to ma dzialac:
