@@ -7,6 +7,9 @@
 - [Managing files in python](https://www.geeksforgeeks.org/python/python-directory-management/)
 - [Images in tkinter](https://tkinter.com/images-in-customtkinter-tkinter-customtkinter-17/)
 - [Mediapipe docs](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html)
+- [Events in tkinter](https://python-course.eu/tkinter/events-and-binds-in-tkinter.php)
+- [Webcam in tkinter](https://www.geeksforgeeks.org/python/how-to-show-webcam-in-tkinter-window-python/)
+- [Images in tkinter](https://www.w3resource.com/python-exercises/tkinter/python-tkinter-dialogs-and-file-handling-exercise-8.php)
 #### IDEA:
 virtual mouse for sorting photos / files on computer ?
 like a tiny program, with drag and drop (divided view) all photos on left, the ones you ‚pick’ and move with ai cursor on the right will get deleted 
