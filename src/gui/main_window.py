@@ -1,10 +1,12 @@
 import tkinter as tk
 from tkinter import *
 from tkinter import filedialog
-from tkinter import ttk
+#from tkinter import ttk
 from PIL import Image, ImageTk
 from os.path import join
 from glob import glob
+import ttkbootstrap as ttk
+from ttkbootstrap.constants import *
 
 class MainWindow(tk.Tk):
     def __init__(self):
